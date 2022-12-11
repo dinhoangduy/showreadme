@@ -16,8 +16,12 @@ Trong thư mục này gồm có: file readme(file đang đọc), file tài liệ
 Để triển khai dự án vui lòng thực hiện theo các bước dưới đây:
 
 ### TRIỂN KHAI CHO SERVER
-
-
+Chọn folder server
+- Node version >=12 & < 17
+- Nếu đã có file database. Hãy restore database. Config lại DB_NAME, DB_PORT, DB_HOST, DB_PASS, DB_USER
+Sau đó chạy source ở local bằng 
+  npm install
+  npm run dev
 
 ### TRIỂN KHAI CHO CLIENT
 
