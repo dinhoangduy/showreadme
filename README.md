@@ -59,4 +59,19 @@ Sau đó thay đổi link server ở file api/axiosClient.js dòng 5
 Khởi chạy dự án
     
     yarn run dev
+    
+### TRIỂN KHAI FIREBASE CHO DỰ ÁN
+
+Truy cập: https://firebase.google.com/  ==> Get started ==> Tạo project web trên firebase 
+
+Sử dụng Storage và Authentication - Sign-in providers with google của FIRABASE
+
+Vào Authentication -> Setting -> Authorized domains: cấp phép sử dụng
+
+--- Kết nối firabase cho dự án
+Truy cập /fỉrebase.js đỗi lại thông tin trong firebaseConfig - từ dòng 5 (lưu ý không đỗi apiKey trong file này).
+
+Truy cập vào các biến .env.* đỗi lại biến VITE_APP_FIRABASE_KEY bằng firabase key.
+
+
 
