@@ -2,7 +2,7 @@
 
 # PHÁT TRIỂN ỨNG DỤNG GHI CHÉP VÀ LẬP KẾ HOẠCH DOLS NOTES & PLANS MANAGEMENT APP
 
-![image](https://user-images.githubusercontent.com/17109060/32149051-32e596e4-bd25-11e7-93a9-5e50c8d2bb19.png)
+![image](https://ibb.co/h73CCNk)
 
 Bạn có thể xem readme dưới dạng website bằng link dưới đây
 [xem-online](https://github.com/dinhoangduy/showreadme/blob/main/README.md).
