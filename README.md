@@ -4,7 +4,7 @@ PHÁT TRIỂN ỨNG DỤNG GHI CHÉP VÀ LẬP KẾ HOẠCH DOLS
 NOTES & PLANS MANAGEMENT APP
 
 Bạn có thể xem readme dưới dạng website bằng link dưới đây
-[gist](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).
+[xem-online](https://github.com/dinhoangduy/showreadme/blob/main/README.md).
 
 ## HƯỚNG TRIỂN KHAI DỰ ÁN
 
