@@ -12,7 +12,7 @@ Trong thư mục này gồm có: file readme(file đang đọc), file tài liệ
 
 Để triển khai dự án vui lòng thực hiện theo các bước dưới đây:
 
-### TRIỂN KHAI CHO ADMIN
+### TRIỂN KHAI CHO SERVER
 
 
 
@@ -35,7 +35,7 @@ Khởi chạy dự án
     yarn start
 
 
-## TRIỂN KHAI CHO ADMIN
+### TRIỂN KHAI CHO ADMIN
 
 Truy cập vào source/admin
 
