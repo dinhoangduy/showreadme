@@ -1,6 +1,6 @@
 # TÊN DỰ ÁN
 ```diff
-+ PHÁT TRIỂN ỨNG DỤNG GHI CHÉP VÀ LẬP KẾ HOẠCH DOLS
+PHÁT TRIỂN ỨNG DỤNG GHI CHÉP VÀ LẬP KẾ HOẠCH DOLS
 NOTES & PLANS MANAGEMENT APP
 ```
 Bạn có thể xem readme dưới dạng website bằng link dưới đây
