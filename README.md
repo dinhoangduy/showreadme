@@ -1,8 +1,7 @@
 
 
-# TÊN DỰ ÁN:
 # PHÁT TRIỂN ỨNG DỤNG GHI CHÉP VÀ LẬP KẾ HOẠCH DOLS
-# NOTES & PLANS MANAGEMENT APP
+#       NOTES & PLANS MANAGEMENT APP
 
 Bạn có thể xem readme dưới dạng website bằng link dưới đây
 [xem-online](https://github.com/dinhoangduy/showreadme/blob/main/README.md).
